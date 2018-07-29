@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Titlee</title>
 </head>
 <body>
 <form action="/uc/registerUser.do" enctype="multipart/form-data" method="post">
